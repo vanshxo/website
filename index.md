@@ -24,10 +24,10 @@ based in Jaipur, India
 
 ---
 
-### [Spam slack bot](https://github.com/vanshxo/spam-slack)
+### [Personal Portfolio](https://web-ecru-three.vercel.app/)
 **Description:** A Custom Slack Bot from Scratch for classification of spam messages 
-**Technologies Used:** [scikit-learn , Python , pandas ,numpy].  
-![Image of Project](https://web-ecru-three.vercel.app/images/slack.png)
+**Technologies Used:** [node js , Express , React ,Vercel].  
+![Image of Project](https://web-ecru-three.vercel.app/images/portfolio/top11.png)
 
 ---
 
